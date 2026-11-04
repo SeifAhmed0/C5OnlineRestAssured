@@ -1,0 +1,17 @@
+{
+  "name": "Mohamed",
+  "job": "Software Test Engineer",
+  "contact": {
+    "email": "Seif@example.com",
+    "phone": "0123456789"
+  },
+  "address": {
+    "city": "Cairo",
+    "country": "Egypt"
+  },
+  "skills": [
+    "Java",
+    "Selenium",
+    "Rest Assured"
+  ]
+}
